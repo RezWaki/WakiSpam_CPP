@@ -9,6 +9,6 @@ Written on VS2012
 * "Always on top" - if checked, then app will be on top of all windows
 
 # Contacting
-[VK](vk.com/glow_05)
+[VK](https://www.vk.com/glow_05)
 
 [FaceBook](https://www.facebook.com/roman.dvachevsky.1)
